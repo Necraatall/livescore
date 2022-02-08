@@ -1,0 +1,4 @@
+# Created at 2022-02-07T17:13:19.963
+Boot Manifest-JAR contains absolute paths in classpath 'F:\GitHUB\livecom2\target\test-classes'
+Hint: <argLine>-Djdk.net.URLClassPath.disableClassPathURLCheck=true</argLine>
+
